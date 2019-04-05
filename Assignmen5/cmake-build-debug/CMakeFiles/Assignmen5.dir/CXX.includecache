@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tech/Desktop/Assignmen5/Assignment5_Morse_Code_Tree.cpp
+iostream
+-
+algorithm
+-
+cstdlib
+-
+array
+-
+string
+-
+cctype
+-
+stdio.h
+-
+ctype.h
+-
+vector
+-
+

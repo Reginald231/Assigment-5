@@ -1,0 +1,3 @@
+/Users/tech/Desktop/Assignmen5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tech/Desktop/Assignmen5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tech/Desktop/Assignmen5/cmake-build-debug/CMakeFiles/Assignmen5.dir
